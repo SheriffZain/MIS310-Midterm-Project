@@ -3,6 +3,7 @@ My MIS 310 midterm project was separated into 2 projects:
 
 
 Project 1: Point system app for Serendipity Booksellers that computes the number of points based on how many books the user borrowed, all in a straight forward GUI. Using if, a series of elif, and an else, the code calculates points based on number of books and uses f string to display it as "Points awarded: {points}". On the GUI side their are widgets created for a text box and buttons for computing the point and showing the results.
+
 For example: 
 •	  If a customer purchases 0 books, he or she earns 0 points.
 •	  If a customer purchases 2 books, he or she earns 5 points.
