@@ -11,6 +11,9 @@ For example:
 •	  If a customer purchases 6 books, he or she earns 30 points.
 •	  If a customer purchases 8 or more books, he or she earns 60 points.
 
+
 Project 2: A mobile application for CCSU that uses a GUI with buttons to display data from a .CSV file   
+  
   Part 2.1: Adding buttons for calendar, buildings, and and faculty and information is shown using data from the .CSV file. Logos are imported and colors are added to the background and the resized buttons for app styling using "image.open", "width=", "bg=", and "buttonX.place=".
+  
   Part 2.2: An enchancement of part 2.1 that added additional buttons to the GUI called "School of Business" and "MIS Department" that list SOB departments and MIS Core Courses. Along with the additional buttons the color of the buttons were also changed from lightgreen to blue.  
